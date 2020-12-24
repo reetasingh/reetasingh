@@ -3,6 +3,11 @@
 I am Reeta (she/her). My day job is Software engineer at Salesforce.
 
 - 👯 I’m looking to collaborate on Golang, Python projects
+- Technologies I have worked on
+  - AWS
+  - Kubernetes
+  - Terraform
+  
 
 ![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
 
@@ -19,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
+
+
 -->
