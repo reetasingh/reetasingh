@@ -8,9 +8,9 @@ I am Reeta (she/her). My day job is Software engineer at Salesforce.
   - Kubernetes
   - Terraform
   - Puppet
-- Programming langues
-  - Python
-  - GoLang
+  - Programming langues
+    - Python
+    - GoLang
 - If I am not programming, I am:
   - Playing Tennis
   - Reading Book
