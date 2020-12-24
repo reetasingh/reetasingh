@@ -7,6 +7,11 @@ I am Reeta (she/her). My day job is Software engineer at Salesforce.
   - AWS
   - Kubernetes
   - Terraform
+  - Puppet
+- Programming langues
+  - Python
+  - GoLang
+
   
 
 ![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
