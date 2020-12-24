@@ -8,7 +8,7 @@ I am Reeta (she/her). I work as Software engineer at Salesforce.
   - Kubernetes
   - Terraform
   - Puppet
-  - Programming langues
+  - Programming Languages
     - Python
     - GoLang
 - If I am not programming, I am:
