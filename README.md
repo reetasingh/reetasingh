@@ -4,7 +4,7 @@ I am Reeta (she/her). My day job is Software engineer at Salesforce.
 
 - 👯 I’m looking to collaborate on Golang, Python projects
 
-
+![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
 
 <!--
 **reetasingh/reetasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
