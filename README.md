@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am Reeta. My day job is Infrastructure engineering at Salesforce.
+I am Reeta (she/her). My day job is Software engineer at Salesforce.
 
 - 👯 I’m looking to collaborate on Golang, Python projects
-- 🤔 I’m looking for help with open source development
 
 
 
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open source development
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: she/her
+
 - ⚡ Fun fact: ...
 -->
