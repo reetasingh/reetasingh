@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Reeta (she/her). My day job is Software engineer at Salesforce.
+I am Reeta (she/her). I work as Software engineer at Salesforce.
 
 - 👯 I’m looking to collaborate on Golang, Python projects
 - Technologies I have worked on
