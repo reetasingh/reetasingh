@@ -2,7 +2,7 @@
 
 I am Reeta (she/her). I work as Software engineer at Salesforce.
 
-- 👯 I’m looking to collaborate on Golang, Python projects
+- 👯 I’m looking to collaborate on Golang, Python, AWS, Kubernetes projects
 - Technologies I have worked on
   - AWS
   - Kubernetes
@@ -11,7 +11,7 @@ I am Reeta (she/her). I work as Software engineer at Salesforce.
   - Programming Languages
     - Python
     - GoLang
-- If I am not programming, I am:
+- If I am not programming, I am
   - Playing Tennis
   - Reading Book
   - Watching Cricket match
