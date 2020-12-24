@@ -11,6 +11,10 @@ I am Reeta (she/her). My day job is Software engineer at Salesforce.
 - Programming langues
   - Python
   - GoLang
+- If I am not programming, I am:
+  - Playing Tennis
+  - Reading Book
+  - Watching Cricket match
 
   
 
