@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Reeta (she/her). I work as Software engineer at Twitter.
+I am Reeta (she/her). I work as Software engineer.
 
 - 👯 I’m looking to collaborate on Golang, Python, AWS, Kubernetes projects
 - Technologies I have worked on
