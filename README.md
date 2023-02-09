@@ -5,14 +5,14 @@ I am Reeta (she/her). I work as Software engineer.
 - 👯 I’m looking to collaborate on Golang, Python, AWS, Kubernetes projects
 - Technologies I have worked on
   - AWS
-  - Kubernetes
+  - Kubernetes, Helm, Istio
   - Terraform
   - Puppet
   - Programming Languages
     - Python
     - GoLang
 - If I am not programming, I am
-  - Playing Tennis
+  - Playing Badminton or Tennis
   - Reading Book
   - Watching Cricket match
 
