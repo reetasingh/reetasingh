@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reeta </h1>
 
+## About me
+
  Currently I am working as Backend software engineer at Woven By Toyota
 
 - 👯 I’m looking to collaborate on Open Source projects
@@ -10,7 +12,7 @@
 
 ![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
 
-## Blogs
+## Blogs I have written
 
 - [Clean ways of adding new optional fields to a Golang constructor](https://medium.com/@reetas/clean-ways-of-adding-new-optional-fields-to-a-golang-struct-99ae2fe9719d?sk=5a915032a6eb68ce9b836bca1cad513d)
 - [Using Generics with Pointer Receivers in Golang](https://medium.com/@reetas/using-generics-with-pointer-receivers-in-go-39ee237d7475?sk=4f12cc7eaf2b980bb8fb9f8d8817caf2)
