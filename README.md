@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Reeta (she/her) </h1>
 
-I am Reeta (she/her). I work as Software engineer.
+ Currently I am working  as Software engineer at Woven By Toyota
 
 - 👯 I’m looking to collaborate on Golang, Python, AWS, Kubernetes projects
 - Technologies I have worked on
