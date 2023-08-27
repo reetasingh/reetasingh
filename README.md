@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reeta (she/her) </h1>
+<h1 align="center">Hi 👋, I'm Reeta </h1>
 
  Currently I am working  as Software engineer at Woven By Toyota
 
