@@ -5,7 +5,7 @@
  Currently I am working as Backend software engineer at Woven By Toyota
 
 - 👯 I’m looking to collaborate on Open Source projects
-- 🌱 I am currently learning Advanced Golang and System Design
+- 🌱 I am currently learning Advanced Golang, System Design and enhancing my sys admin skills
 - Fun fact: I love playing badminton and watching Cricket and Tennis matches
 
 
