@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reeta </h1>
 
- Currently I am working  as Software engineer at Woven By Toyota
+ Currently I am working as Backend software engineer at Woven By Toyota
 
-- 👯 I’m looking to collaborate on Golang, Python, AWS, Kubernetes projects
-- Technologies I have worked on
-  - AWS
-  - Kubernetes, Helm, Istio
-  - Terraform
-  - Puppet
-  - Programming Languages
-    - Python
-    - GoLang
-- If I am not programming, I am
-  - Playing Badminton or Tennis
-  - Reading Book
-  - Watching Cricket match
+- 👯 I’m looking to collaborate on Open Source projects
+- I am currently learning Advanced Golang and System Design
+- Fun fact: I love playing badminton and watching Cricket and Tennis matches
 
   
 
