@@ -12,6 +12,9 @@
 
 ![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
 
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=reetasingh&theme=radical)
+
+
 ## Blogs I have written
 
 - [Clean ways of adding new optional fields to a Golang constructor](https://medium.com/@reetas/clean-ways-of-adding-new-optional-fields-to-a-golang-struct-99ae2fe9719d?sk=5a915032a6eb68ce9b836bca1cad513d)
