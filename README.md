@@ -12,7 +12,7 @@
 
 ![Reeta's github stats](https://github-readme-stats.vercel.app/api?username=reetasingh&show_icons=true&theme=radical)
 
-![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=reetasingh&theme=radical)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=reetasingh&&show_icons=true&theme=radical)
 
 
 ## Blogs I have written
