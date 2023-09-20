@@ -24,19 +24,8 @@
 - [Different ways to retry function execution in Golang](https://medium.com/@reetas/different-ways-to-retry-function-execution-in-golang-763229550dab?sk=1c82e6b3f68746a14f32e209bfd0dd0b)
 - [Different ways of passing a list value to a command line flag in golang](https://medium.com/@reetas/different-ways-of-passing-a-list-value-to-a-command-line-flag-in-golang-ea4764c21b69?sk=21a44b4cc2993fed2f0a57f3fa6c386e)
 
-<!--
-**reetasingh/reetasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Golang, Python projects
-- 🤔 I’m looking for help with open source development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
-
-
--->
+<br>
+<h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/reetas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
