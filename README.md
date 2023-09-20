@@ -2,7 +2,7 @@
 
 ## About me
 
- Currently I am working as Backend software engineer at [Woven By Toyota](https://woven.toyota/en/)
+ Currently I am working as Backend software engineer @[Woven By Toyota](https://woven.toyota/en/)
 
 - 👯 I’m looking to collaborate on Open Source projects
 - 🌱 I am currently learning Advanced Golang, System Design and enhancing linux system admin skills
