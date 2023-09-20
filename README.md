@@ -25,7 +25,7 @@
 - [Different ways of passing a list value to a command line flag in golang](https://medium.com/@reetas/different-ways-of-passing-a-list-value-to-a-command-line-flag-in-golang-ea4764c21b69?sk=21a44b4cc2993fed2f0a57f3fa6c386e)
 
 <br>
-<h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
+<h2 align="left">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/reetas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
