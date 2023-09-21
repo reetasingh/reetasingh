@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Open Source projects
 - 🌱 I am currently learning Advanced Golang, System Design and enhancing linux system admin skills
-- Fun fact: I love playing badminton and watching Cricket and Tennis matches
+- Fun fact: I love playing badminton and enjoy watching Cricket and Tennis matches
 
 
 
